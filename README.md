@@ -6,6 +6,6 @@
 
 --> https://github.com/mkmconnects-byte
 
-A Learning-Platform         --> https://github.com/mkmconnects-byte/CyraX-Learning-Platform 
+A Learning-Platform --> https://github.com/mkmconnects-byte/CyraX-Learning-Platform 
 
 A Library Management System --> https://github.com/mkmconnects-byte/LibraryManagementSystem-LMS
